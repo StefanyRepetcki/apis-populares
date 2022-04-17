@@ -1,6 +1,6 @@
 # Integrações de API mais populares
 
-Essas são as APIs que mais de 1.000.000 desenvolvedores usam mais. Para cada API, clique no link para explorar a documentação da API ou clique em “Lern More” para ler mais detalhes sobre a API.
+Essas são as APIs que mais de 1.000.000 desenvolvedores usam mais. Para cada API, clique no link para explorar a documentação da API.
 
     <ol>
         <li><a href="https://rapidapi.com/skyscanner/api/skyscanner-flight-search">Skyscanner Flight
